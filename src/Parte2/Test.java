@@ -23,23 +23,3 @@ public class Test {
 		g.addEdge(31, 61); // Arco a un nodo eliminado
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
